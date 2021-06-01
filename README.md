@@ -11,7 +11,7 @@
       Antonio Paulo Uamba<br><img src="https://img.shields.io/static/v1?label=Discente&message=UNILAB&color=blue&style=<STYLE>&logo=<LOGO>">
     </td>
     <td align="center">
-      Allberson Bruno de Oliveira Dantas<img src="https://img.shields.io/static/v1?label=Docente&message=UNILAB&color=blue&style=<STYLE>&logo=<LOGO>">
+      Allberson Bruno de Oliveira Dantas<br><img src="https://img.shields.io/static/v1?label=Docente&message=UNILAB&color=blue&style=<STYLE>&logo=<LOGO>">
     </td>
      <td align="center">
        Renato Farias de Paiva<br><img src="https://img.shields.io/static/v1?label=TAE&message=UNILAB&color=blue&style=<STYLE>&logo=<LOGO>">
